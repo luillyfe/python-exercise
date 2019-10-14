@@ -25,3 +25,29 @@ node_modules
 # yarn.lock
 
 ## Project-specific files
+__pycache__/
+env/
+build/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+
+*.py[cod]
+*.so
+
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+*.log
+*.pot
+*.pyc
+
+.installed.cfg
+local_settings.py
