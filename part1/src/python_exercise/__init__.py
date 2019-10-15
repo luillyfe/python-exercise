@@ -1,2 +1,2 @@
-print "This is our Django project generator tool set."
-
+def main():
+    print("This is our Django project generator tool set.")
